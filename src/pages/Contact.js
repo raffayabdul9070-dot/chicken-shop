@@ -84,7 +84,7 @@ const Contact = () => {
       ]
     }
   ];
-
+// eslint-disable-next-line no-unused-vars 
   const deliveryAreas = [
     {
       area: 'Rawalpindi',
